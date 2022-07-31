@@ -1,6 +1,6 @@
 # 欧拉函数
 
-求单个欧拉函数值
+## 求单个欧拉函数值
 
 参数：x
 
@@ -22,5 +22,43 @@ int Euler(int x){
 	}
 	if(x!=1)ans=ans/x*(x-1);
 	return ans;
+}
+```
+
+## 欧拉筛求1~n的欧拉函数值
+
+结果保存在euler数组内,会同时筛出1~n的素数
+
+参数：n
+
+时间复杂度：$$O(n)$$
+
+```
+/**
+ *    author:  Rift
+ *    created: 2022.08.01  00:05
+**/
+vector<int> prime;
+bool notprime[maxn];
+int euler[maxn];
+void EulerSieve_euler(int n){
+	notprime[1]=true;
+	euler[1]=1;
+	for(int i=2;i<=n;++i){
+		if(notprime[i]==false){
+			prime.push_back(i);
+			euler[i]=i-1;
+		}
+		for(int p:prime){
+			if(i*p>n)break;
+			notprime[i*p]=true;
+			if(i%p==0){
+				euler[i*p]=euler[i]*p;
+				break;
+			}
+			else
+				euler[i*p]=euler[i]*(p-1);
+		}
+	}
 }
 ```
