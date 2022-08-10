@@ -9,6 +9,7 @@
     * [数论]
         * [gcd](math/number-theory/gcd.md)
         * [exgcd](math/number-theory/exgcd.md)
-        * [欧拉函数](math/number-theory/Euler.md)
+        * [模逆元](math/number-theory/mod_inverse.md)
         * [欧拉筛](math/number-theory/EulerSieve.md)
+        * [欧拉函数](math/number-theory/Euler.md)
 
