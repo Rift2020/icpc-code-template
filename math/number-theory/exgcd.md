@@ -41,11 +41,11 @@ int exgcd(int a,int b,int &x,int &y){
 
 任意解为
 
-​	$$\left\{  
-​             \begin{array}{**lr**}  
-​             x=x_1+b't   \\  
-​             y=y_1+a't  
-​             \end{array}  
+​	$$\left\{
+\begin{aligned}
+x=x_1+b't   \\  
+y=y_1+a't  
+\end{aligned}  
 \right.$$ 其中$$t\in Z, a'=\frac a g,b'=\frac b g$$
 
 $x$的最小正整数特解为$$(x_1\mod b'+b')\mod b'$$
