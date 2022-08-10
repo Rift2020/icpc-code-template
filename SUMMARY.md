@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [基础]
+    * [整除](basic/exact-division.md)
 * [数学]
     * [快速幂](math/quickPow.md)
     * [数论]
