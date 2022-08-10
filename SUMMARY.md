@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [基础]
+    * [(取模)快读](basic/read.md)
     * [整除](basic/exact-division.md)
 * [数学]
     * [快速幂](math/quickPow.md)
