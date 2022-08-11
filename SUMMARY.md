@@ -12,4 +12,5 @@
         * [模逆元](math/number-theory/mod_inverse.md)
         * [欧拉筛](math/number-theory/EulerSieve.md)
         * [欧拉函数](math/number-theory/Euler.md)
+        * [费马小定理和欧拉定理](math/number-theory/fermat&euler.md)
 
