@@ -15,6 +15,7 @@
         * [费马小定理和欧拉定理](math/number-theory/fermat&euler.md)
         * [快速乘](math/number-theory/qmul.md)
         * [中国剩余定理 CRT](math/number-theory/CRT.md)
+        * [卢卡斯定理](math/number-theory/lucas.md)
     * [组合数学]
         * [排列组合](math/combinatorics/P&C.md)
 
