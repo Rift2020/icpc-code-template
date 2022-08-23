@@ -48,7 +48,7 @@ y=y_1+a't
 \end{aligned}  
 \right.$$ 其中$$t\in Z, a'=\frac a g,b'=\frac b g$$
 
-$x$的最小正整数特解为$$(x_1\mod b'+b')\mod b'$$
+$$x$$的最小正整数特解为$$(x_1\mod b'+b')\mod b'$$
 
 #### 另外
 
