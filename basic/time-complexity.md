@@ -20,7 +20,7 @@
 
 如果一个算法将规模为$$n$$的问题分解为$$a$$个，每个子问题规模$$n/b$$，且需要$$f(n)$$的时间作其他事情(譬如分解问题或是合并子问题的解)
 $$
-T(n) = a T\left(\frac{n}{b}\right)＋f(n)\qquad \forall n > b
+T(n) = a T\left(\frac{n}{b}\right)+f(n)\qquad \forall n > b
 $$
 则：
 $$
