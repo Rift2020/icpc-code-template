@@ -4,11 +4,13 @@
 * [基础]
     * [(取模)快读](basic/read.md)
     * [整除](basic/exact-division.md)
+    * [时间复杂度](basic/time-complexity.md)
 * [数学]
     * [快速幂](math/quickPow.md)
     * [数论]
         * [gcd](math/number-theory/gcd.md)
         * [exgcd](math/number-theory/exgcd.md)
+        * [分解质因数](math/number-theory/factor.md)
         * [模逆元](math/number-theory/mod_inverse.md)
         * [欧拉筛](math/number-theory/EulerSieve.md)
         * [欧拉函数](math/number-theory/Euler.md)
