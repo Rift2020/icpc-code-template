@@ -22,4 +22,5 @@
         * [排列组合](math/combinatorics/P&C.md)
 * 未归档
     * [分层最短路](non-class/fczdl.md)
+    * [差分约束](non-class/cfys.md)
 
