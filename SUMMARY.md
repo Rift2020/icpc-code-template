@@ -23,4 +23,5 @@
 * 未归档
     * [分层最短路](non-class/fczdl.md)
     * [差分约束](non-class/cfys.md)
+    * [最近公共祖先](non-class/lca.md)
 
