@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [模板](template.md)
 * [基础]
     * [(取模)快读](basic/read.md)
     * [整除](basic/exact-division.md)
