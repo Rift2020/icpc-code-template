@@ -15,3 +15,11 @@ $$A_n^n=n!$$
 n个不同元素，取m个组成一个集合，所有集合的数量。记作$$C_n^m$$，更简洁的，记作$$\tbinom n m$$
 
 $$C_n^m=\tbinom{n}{m}=\frac{P_n^m}{m!}=\frac{n!}{m!(n-m)!}$$
+
+### 组合数性质
+
+$$\binom{n}{m}=\binom{n-1}{m}+\binom{n-1}{m-1}\tag{3}$$
+
+$$\binom{n}{0}+\binom{n}{1}+\cdots+\binom{n}{n}=\sum_{i=0}^n\binom{n}{i}=2^n\tag{4}$$
+
+
