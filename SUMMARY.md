@@ -26,3 +26,4 @@
     * [差分约束](non-class/cfys.md)
     * [最近公共祖先](non-class/lca.md)
 	* [博弈论](non-class/game-theory.md)
+	* [最大流](non-class/dinic.md)
